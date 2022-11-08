@@ -15,4 +15,3 @@
 - Signed-in user is able to update or delete their posts.
 - User is automatically signed out of the site when user is idle for some period of time
 
-## Video
